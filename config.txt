@@ -1,0 +1,6 @@
+token=NTI2OTI1NTMyNzE0MjM3OTcy.DyerBg.bSRNP3FYkaU5XVq3jkuA0Atp_7g
+owner=433198762706599936
+prefix=#
+game= one is here ..
+stayinchannel=true
+songinstatus=true 
