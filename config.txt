@@ -1,6 +1,6 @@
-token=NTI2OTI1NTMyNzE0MjM3OTcy.DyerBg.bSRNP3FYkaU5XVq3jkuA0Atp_7g
+token=NTM3NTk2NTczNzMxNzgyNjU2.DynjcQ.xc0O6iGkJlpVkOwClJeYnk5bCaY
 owner=433198762706599936
-prefix=#
-game= one is here ..
+prefix=a
+game= artful dodger is here ..
 stayinchannel=true
 songinstatus=true 
